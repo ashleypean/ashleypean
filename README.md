@@ -48,6 +48,8 @@ style = "float: left; margin-right: 10px; width: 25px; height: 25px;">
 
 <br />
 <br />
+
 ### Stats
 ---
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleypean&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=midnight-purple)
