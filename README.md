@@ -12,32 +12,32 @@
 ## Languages 
 
 <img src = "img/html.svg" 
-alt = "HTML" align = "left" style = " margin-right: 10px; float: left;" />
+alt = "HTML" align = "left" padding = "0"  style = " margin-right: 10px; float: left;" />
 
 <img src = "img/css.svg" 
-alt = "CSS" align = "left" style = "margin-right: 10px; float: left;" />
+alt = "CSS" align = "left" padding = "0"  style = "margin-right: 10px; float: left;" />
 
 <img src = "img/javascript.svg" 
-alt = "JavaScript" align = "left" style = "margin-right: 10px; float: left;" />
+alt = "JavaScript" align = "left" padding = "0"  style = "margin-right: 10px; float: left;" />
 
 <img src = "img/react.svg" 
-alt = "React" align = "left" style = "margin-right: 10px; float: left;" />
+alt = "React" align = "left" padding = "0"  style = "margin-right: 10px; float: left;" />
 
 <img src = "img/nodejs.svg" 
-alt = "NodeJS" align = "left" style = "margin-right: 10px; float: left;" />
+alt = "NodeJS" align = "left" padding = "0"  style = "margin-right: 10px; float: left;" />
 
 <img src = "img/express.svg"
-alt = "Express JS" align = "left" style = "margin-right: 10px; float: left;">
+alt = "Express JS" align = "left" padding = "0"  style = "margin-right: 10px; float: left;">
 
 <br />
 <br />
 
 ## Tools
 <img src = "img/npm.svg"
-  alt = "npm" align = "left" style = "margin-right: 10px; float: left;" />
+  alt = "npm" align = "left" padding = "0"  style = "margin-right: 10px; float: left;" />
 
 <img src = "img/github.svg"
-  alt = "github" align = "left" style = "margin-right: 10px; float: left;" />
+  alt = "github" align = "left" padding = "0" style = "margin-right: 10px; float: left;" />
 
 <br />
 <br />
