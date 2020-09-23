@@ -11,7 +11,7 @@
 ---
 
 ## Languages and Tools
-![HTML] (img/html.svg)
+<img src = "img/html.svg" />
 ![CSS] (img/css.svg)
 ![Javascript] (img/javascript.svg)
 ![React] (img/react.svg)
