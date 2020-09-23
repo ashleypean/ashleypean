@@ -1,5 +1,7 @@
 ### Hi there, my name is Ashley Pean!
 
+##I am a self-taught full-stack developer and am currently enrolled in Codesmith PTRI 2. 
+
 ---
 
 ## Connect with me: 
