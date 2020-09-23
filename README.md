@@ -11,11 +11,11 @@
 ---
 
 ## Languages and Tools
-<img src = "img/html.svg" />
-![CSS] (img/css.svg)
-![Javascript] (img/javascript.svg)
-![React] (img/react.svg)
-![NodeJS] (img/nodejs.svg)
+<img src = "img/html.svg" alt = "HTML" />
+<img src = "img/css.svg" alt = "CSS" >
+<img src = "img/javascript.svg" alt = "JavaScript" />
+<img src = "img/react.svg" alt = "React" />
+<img src = "img/nodejs.svg" alt = "NodeJS" />
 
 ---
 
