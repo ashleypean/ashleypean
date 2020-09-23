@@ -31,6 +31,10 @@ style = " margin-right: 10px; width: 10px; height: 10px;" />
 alt = "NodeJS" 
 style = " margin-right: 10px; width: 10px; height: 10px;" />
 
+<img src = "img/express.svg"
+alt = "Express JS"
+style = "margin-right: 10px; width: 10px; height: 10px;">
+
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleypean&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=midnight-purple)
