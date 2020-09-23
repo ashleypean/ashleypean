@@ -13,27 +13,27 @@
 ## Languages and Tools
 <img src = "img/html.svg" 
 alt = "HTML" 
-style = " display: inline; margin-right: 10px; width: 10px; height: 10px;" />
+style = " float: left; margin-right: 10px; width: 10px; height: 10px;" />
 
 <img src = "img/css.svg" 
 alt = "CSS" 
-style = " display: inline; margin-right: 10px; width: 10px; height: 10px;" />
+style = " float: left; margin-right: 10px; width: 10px; height: 10px;" />
 
 <img src = "img/javascript.svg" 
 alt = "JavaScript" 
-style = " display: inline; margin-right: 10px; width: 10px; height: 10px;" />
+style = " float: left; margin-right: 10px; width: 10px; height: 10px;" />
 
 <img src = "img/react.svg" 
 alt = "React" 
-style = " display: inline; margin-right: 10px; width: 10px; height: 10px;" />
+style = " float: left; margin-right: 10px; width: 10px; height: 10px;" />
 
 <img src = "img/nodejs.svg" 
 alt = "NodeJS" 
-style = " display: inline; margin-right: 10px; width: 10px; height: 10px;" />
+style = " float: left; margin-right: 10px; width: 10px; height: 10px;" />
 
 <img src = "img/express.svg"
 alt = "Express JS"
-style = "display: inline; margin-right: 10px; width: 10px; height: 10px;">
+style = "float: left; margin-right: 10px; width: 10px; height: 10px;">
 
 ---
 
