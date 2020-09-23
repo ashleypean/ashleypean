@@ -11,7 +11,7 @@
 ---
 
 ## Languages and Tools
-<img src = "img/html.png" 
+<img src = "img/html.svg" 
 alt = "HTML" 
 style = " margin-right: 10px; width: 10px; height: 10px;" />
 
