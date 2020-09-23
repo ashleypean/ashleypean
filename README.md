@@ -10,35 +10,34 @@
 ---
 
 ## Languages 
-<p>
-  <img src = "img/html.svg" 
-  alt = "HTML" align = "left" style = " margin-right: 10px;" />
 
-  <img src = "img/css.svg" 
-  alt = "CSS" align = "left" style = "margin-right: 10px;" />
+<img src = "img/html.svg" 
+alt = "HTML" align = "left" style = " margin-right: 10px; float: left;" />
 
-  <img src = "img/javascript.svg" 
-  alt = "JavaScript" align = "left" style = "margin-right: 10px;" />
+<img src = "img/css.svg" 
+alt = "CSS" align = "left" style = "margin-right: 10px; float: left;" />
 
-  <img src = "img/react.svg" 
-  alt = "React" align = "left" style = "margin-right: 10px;" />
+<img src = "img/javascript.svg" 
+alt = "JavaScript" align = "left" style = "margin-right: 10px; float: left;" />
 
-  <img src = "img/nodejs.svg" 
-  alt = "NodeJS" align = "left" style = "margin-right: 10px;" />
+<img src = "img/react.svg" 
+alt = "React" align = "left" style = "margin-right: 10px; float: left;" />
 
-  <img src = "img/express.svg"
-  alt = "Express JS" align = "left" style = "margin-right: 10px;">
-</p>
+<img src = "img/nodejs.svg" 
+alt = "NodeJS" align = "left" style = "margin-right: 10px; float: left;" />
+
+<img src = "img/express.svg"
+alt = "Express JS" align = "left" style = "margin-right: 10px; float: left;">
 
 <br />
 <br />
 
 ## Tools
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/1823e8f472de12cd8a6bc4fe7ca2fea37d983342/img/npm.svg"
-  alt = "npm" style = "margin-right: 10px; float: left;" />
+<img src = "img/npm.svg"
+  alt = "npm" align = "left" style = "margin-right: 10px; float: left;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/1823e8f472de12cd8a6bc4fe7ca2fea37d983342/img/github.svg"
-  alt = "github" style = "margin-right: 10px; float: left;" />
+<img src = "img/github.svg"
+  alt = "github" align = "left" style = "margin-right: 10px; float: left;" />
 
 <br />
 <br />
