@@ -13,23 +13,23 @@
 ## Languages and Tools
 <img src = "img/html.png" 
 alt = "HTML" 
-style = " margin-right: 10px; width: 50px; height: auto;" />
+style = " margin-right: 10px; width: 10px; height: auto;" />
 
 <img src = "img/css.svg" 
 alt = "CSS" 
-style = " margin-right: 10px; width: 50px; height: auto;" />
+style = " margin-right: 10px; width: 10px; height: auto;" />
 
 <img src = "img/javascript.svg" 
 alt = "JavaScript" 
-style = " margin-right: 10px; width: 50px; height: auto;" />
+style = " margin-right: 10px; width: 10px; height: auto;" />
 
 <img src = "img/react.svg" 
 alt = "React" 
-style = " margin-right: 10px; width: 50px; height: auto;" />
+style = " margin-right: 10px; width: 10px; height: auto;" />
 
 <img src = "img/nodejs.svg" 
 alt = "NodeJS" 
-style = " margin-right: 10px; width: 50px; height: auto;" />
+style = " margin-right: 10px; width: 10px; height: auto;" />
 
 ---
 
