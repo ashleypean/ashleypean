@@ -10,31 +10,30 @@
 ---
 
 ## Languages 
-| ![HTML] (https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/html.svg) | ![CSS] (https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/css.svg)
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/html.svg" 
 alt = "HTML" 
-style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
+style = " align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/css.svg" 
 alt = "CSS" 
-style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
+style = " align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/javascript.svg" 
 alt = "JavaScript" 
-style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
+style = " align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/react.svg" 
 alt = "React" 
-style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
+style = " align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/nodejs.svg" 
 alt = "NodeJS" 
-style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
+style = " align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/express.svg"
 alt = "Express JS"
-style = "float: left; margin-right: 10px; width: 25px; height: 25px;">
+style = "align:left; margin-right: 10px; width: 25px; height: 25px;">
 
 <br />
 <br />
@@ -42,11 +41,11 @@ style = "float: left; margin-right: 10px; width: 25px; height: 25px;">
 ##Tools
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/1823e8f472de12cd8a6bc4fe7ca2fea37d983342/img/npm.svg"
   alt = "npm"
-  style = "float: left; margin-right: 10px; width: 25px; height: 25px;" />
+  style = "align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/1823e8f472de12cd8a6bc4fe7ca2fea37d983342/img/github.svg"
   alt = "github"
-  style = "float: left; margin-right: 10px; width: 25px; height: 25px;" />
+  style = "align:left; margin-right: 10px; width: 25px; height: 25px;" />
 
 <br />
 <br />
