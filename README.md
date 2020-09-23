@@ -10,24 +10,25 @@
 ---
 
 ## Languages 
+<p>
+  <img src = "img/html.svg" 
+  alt = "HTML" align = "left" style = " margin-right: 10px;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/html.svg" 
-alt = "HTML" style = " margin-right: 10px; float: left;" />
+  <img src = "img/css.svg" 
+  alt = "CSS" align = "left" style = "margin-right: 10px;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/css.svg" 
-alt = "CSS" style = "margin-right: 10px; float: left;" />
+  <img src = "img/javascript.svg" 
+  alt = "JavaScript" align = "left" style = "margin-right: 10px;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/javascript.svg" 
-alt = "JavaScript" style = "margin-right: 10px; float: left;" />
+  <img src = "img/react.svg" 
+  alt = "React" align = "left" style = "margin-right: 10px;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/react.svg" 
-alt = "React" style = "margin-right: 10px; float: left;" />
+  <img src = "img/nodejs.svg" 
+  alt = "NodeJS" align = "left" style = "margin-right: 10px;" />
 
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/nodejs.svg" 
-alt = "NodeJS" style = "margin-right: 10px; float: left;" />
-
-<img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/express.svg"
-alt = "Express JS" style = "margin-right: 10px; float: left;">
+  <img src = "img/express.svg"
+  alt = "Express JS" align = "left" style = "margin-right: 10px;">
+</p>
 
 <br />
 <br />
