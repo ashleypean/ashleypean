@@ -11,7 +11,7 @@
 ---
 
 ## Languages
-<div style = "display: inline"> 
+![HTML] (img/html.svg) ![CSS] (img/css.svg)
   <img src = "img/html.svg" 
   alt = "HTML" 
   style = "display: inline; margin-right: 10px; width: 25px; height: 25px;" />
@@ -35,7 +35,6 @@
   <img src = "img/express.svg"
   alt = "Express JS"
   style = "display: inline; margin-right: 10px; width: 25px; height: 25px;" />
-</div>
 
 
 ---
