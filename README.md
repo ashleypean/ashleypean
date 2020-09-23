@@ -4,8 +4,8 @@
 ---
 
 ## Connect with me: 
-[<img src="img/twitter.svg" style = " margin-right: 10px;">](https://twitter.com/12sugarplums)
-[<img src="img/linkedin.svg" style = " margin-right: 10px;">](https://www.linkedin.com/in/ashley-pean/)
+<a href = "https://www.linkedin.com/in/ashley-pean/"><img src="img/twitter.svg" style = " margin-right: 10px;"></a>
+<a href = "https://www.linkedin.com/in/ashley-pean/"><img src="img/linkedin.svg" style = " margin-right: 10px;"></a>
 
 ---
 
