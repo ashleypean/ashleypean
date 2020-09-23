@@ -11,11 +11,11 @@
 ---
 
 ## Languages and Tools
-- HTML
-- CSS
-- JavaScript
-- React 
-- NodeJS/Express
+![img/html.svg]
+![img/css.svg]
+![img/javascript.svg]
+![img/react.svg]
+![img/nodejs.svg]
 
 ---
 
