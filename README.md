@@ -10,6 +10,8 @@
 ---
 
 ## Languages 
+| ![HTML] (https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/html.svg) | ![CSS] (https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/css.svg)
+
 <img src = "https://raw.githubusercontent.com/ashleypean/ashleypean/a14968d490e1a240f8aaf2ce6b4132935289d038/img/html.svg" 
 alt = "HTML" 
 style = " float: left; margin-right: 10px; width: 25px; height: 25px;" />
