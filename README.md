@@ -47,3 +47,7 @@ alt = "Express JS" align = "left" style = "margin-right: 10px;">
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleypean&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=midnight-purple)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleypean&layout=compact)](https://github.com/ashleypean/github-readme-stats)
