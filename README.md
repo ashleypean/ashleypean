@@ -50,4 +50,4 @@ alt = "Express JS" align = "left" style = "margin-right: 10px;">
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleypean&layout=compact)](https://github.com/ashleypean/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleypean&layout=compact&theme=midnight-purple)](https://github.com/ashleypean/github-readme-stats)
