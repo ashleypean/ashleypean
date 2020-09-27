@@ -30,8 +30,7 @@ alt = "NodeJS" align = "left" style = "margin-right: 10px;" />
 <img src = "img/express.svg"
 alt = "Express JS" align = "left" style = "margin-right: 10px;">
 
-<img src = "img/sqlite48b.svg"
-alt = "SQLite" align = "left" style = "margin-right: 10px;">
+![SQL](https://img.icons8.com/ios/50/000000/sql.png)
 
 <br />
 <br />
@@ -42,6 +41,7 @@ alt = "SQLite" align = "left" style = "margin-right: 10px;">
 
 <img src = "img/github.svg"
   alt = "github" align = "left" padding = "0" style = "margin-right: 10px;" />
+  
 
 <br />
 <br />
