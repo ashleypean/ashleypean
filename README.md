@@ -33,7 +33,6 @@ alt = "Express JS" align = "left" style = "margin-right: 10px;">
 ![SQL](https://img.icons8.com/ios/50/000000/sql.png)
 
 <br />
-<br />
 
 ## Tools
 <img src = "img/npm.svg"
