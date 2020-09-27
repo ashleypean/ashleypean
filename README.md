@@ -30,7 +30,7 @@ alt = "NodeJS" align = "left" style = "margin-right: 10px;" />
 <img src = "img/express.svg"
 alt = "Express JS" align = "left" style = "margin-right: 10px;">
 
-<img src = "img/sqlite.png"
+<img src = "img/sqlite48b.svg"
 alt = "SQLite" align = "left" style = "margin-right: 10px;">
 
 <br />
