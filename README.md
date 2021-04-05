@@ -5,7 +5,7 @@
 ---
 
 ## Connect with me: 
-<a href = "https://twitter.com/12sugarplums"><img src="img/twitter.svg" style = " margin-right: 10px;"></a>
+<a href = "https://twitter.com/ashleypeandev"><img src="img/twitter.svg" style = " margin-right: 10px;"></a>
 <a href = "https://www.linkedin.com/in/ashley-pean/"><img src="img/linkedin.svg" style = " margin-right: 10px;"></a>
 
 ---
