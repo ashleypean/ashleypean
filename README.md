@@ -1,6 +1,5 @@
-Software engineer specializing in React, Express, and Node
+Software engineer [@Eventbrite](http://eventbrite.com/) specializing in React, Express, and Node
 
-Open-source contributor to [obServerJS](https://www.observerjs.com/)
 
 ### Blog Posts 
 - [How to Leverage Twitter as a Software Engineer](https://ashleypean.hashnode.dev/how-to-leverage-twitter-as-a-software-engineer)
