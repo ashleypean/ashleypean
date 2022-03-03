@@ -16,7 +16,3 @@ Software engineer [@Eventbrite](http://eventbrite.com/) specializing in React, E
 <a href = "https://www.linkedin.com/in/ashley-pean/">
   <img src="img/linkedin.svg" height="40px" width="40px">
 </a>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleypean&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/ashleypean/github-readme-stats)
