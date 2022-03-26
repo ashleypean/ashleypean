@@ -1,4 +1,4 @@
-Software engineer [@Eventbrite](http://eventbrite.com/) specializing in React, Express, Node, and Python
+Software engineer [@Eventbrite](http://eventbrite.com/) specializing in React, Node, and Python
 
 
 ### Blog Posts 
