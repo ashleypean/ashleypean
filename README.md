@@ -1,5 +1,4 @@
-Software engineer [@Eventbrite](http://eventbrite.com/) specializing in React, Node, and Python
-
+Software engineer specializing in React, Node and Python
 
 ### Socials
 <a href = "https://ashleypean.hashnode.dev/">
