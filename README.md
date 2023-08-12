@@ -1,4 +1,4 @@
-Software engineer specializing in React, Node and Python
+Software engineer specializing in React, Node, Rails and Python
 
 ### Socials
 <a href = "https://ashleypean.hashnode.dev/">
